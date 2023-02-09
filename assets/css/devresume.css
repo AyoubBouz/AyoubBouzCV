@@ -27,7 +27,7 @@
     --white: #fff;
     --gray: #767575;
     --gray-dark: #434242;
-    --primary: #E95420;
+    --primary: #3d27e1;
     --secondary: #333333;
     --success: #28a745;
     --info: #17a2b8;
@@ -176,7 +176,7 @@ sup {
 }
 
 a {
-    color: #E95420;
+    color: #3d27e1;
     text-decoration: none;
     background-color: transparent
 }
@@ -2905,8 +2905,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .btn-primary:hover {
@@ -2923,8 +2923,8 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .btn-primary:not(:disabled):not(.disabled):active,
@@ -3208,14 +3208,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-    color: #E95420;
-    border-color: #E95420
+    color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .btn-outline-primary:focus,
@@ -3225,7 +3225,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-    color: #E95420;
+    color: #3d27e1;
     background-color: transparent
 }
 
@@ -3233,8 +3233,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled).active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled):active:focus,
@@ -3497,7 +3497,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #E95420;
+    color: #3d27e1;
     text-decoration: none
 }
 
@@ -3813,7 +3813,7 @@ input[type="button"].btn-block {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #E95420
+    background-color: #3d27e1
 }
 
 .dropdown-item.disabled,
@@ -4206,8 +4206,8 @@ input[type="button"].btn-block {
 
 .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    border-color: #E95420;
-    background-color: #E95420
+    border-color: #3d27e1;
+    background-color: #3d27e1
 }
 
 .custom-control-input:focus~.custom-control-label::before {
@@ -4271,8 +4271,8 @@ input[type="button"].btn-block {
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
-    border-color: #E95420;
-    background-color: #E95420
+    border-color: #3d27e1;
+    background-color: #3d27e1
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after {
@@ -4503,7 +4503,7 @@ input[type="button"].btn-block {
     width: 1rem;
     height: 1rem;
     margin-top: -.25rem;
-    background-color: #E95420;
+    background-color: #3d27e1;
     border: 0;
     border-radius: 1rem;
     -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4536,7 +4536,7 @@ input[type="button"].btn-block {
 .custom-range::-moz-range-thumb {
     width: 1rem;
     height: 1rem;
-    background-color: #E95420;
+    background-color: #3d27e1;
     border: 0;
     border-radius: 1rem;
     -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4572,7 +4572,7 @@ input[type="button"].btn-block {
     margin-top: 0;
     margin-right: .2rem;
     margin-left: .2rem;
-    background-color: #E95420;
+    background-color: #3d27e1;
     border: 0;
     border-radius: 1rem;
     -webkit-transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
@@ -4721,7 +4721,7 @@ input[type="button"].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #E95420
+    background-color: #3d27e1
 }
 
 .nav-fill .nav-item {
@@ -5558,7 +5558,7 @@ input[type="button"].btn-block {
     padding: .5rem .75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #E95420;
+    color: #3d27e1;
     background-color: #fff;
     border: 1px solid #a9a8a8
 }
@@ -5591,8 +5591,8 @@ input[type="button"].btn-block {
 .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .page-item.disabled .page-link {
@@ -5678,7 +5678,7 @@ a.badge:focus {
 
 .badge-primary {
     color: #fff;
-    background-color: #E95420
+    background-color: #3d27e1
 }
 
 a.badge-primary:hover,
@@ -6016,7 +6016,7 @@ a.badge-dark.focus {
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #E95420;
+    background-color: #3d27e1;
     -webkit-transition: width 0.6s ease;
     transition: width 0.6s ease
 }
@@ -6123,8 +6123,8 @@ a.badge-dark.focus {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #E95420;
-    border-color: #E95420
+    background-color: #3d27e1;
+    border-color: #3d27e1
 }
 
 .list-group-horizontal {
@@ -7362,7 +7362,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #E95420 !important
+    background-color: #3d27e1 !important
 }
 
 a.bg-primary:hover,
@@ -7498,7 +7498,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-    border-color: #E95420 !important
+    border-color: #3d27e1 !important
 }
 
 .border-secondary {
@@ -11368,7 +11368,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-    color: #E95420 !important
+    color: #3d27e1 !important
 }
 
 a.text-primary:hover,
@@ -11607,7 +11607,7 @@ a.theme-link {
 }
 
 a.theme-link:hover {
-    color: #E95420;
+    color: #3d27e1;
     -webkit-text-decoration-color: rgba(84, 182, 137, 0.8);
     text-decoration-color: rgba(84, 182, 137, 0.8)
 }
@@ -11645,7 +11645,7 @@ a.theme-link:hover {
     padding-left: 1rem;
     font-size: 1.125rem;
     letter-spacing: 0.15rem;
-    color: #E95420
+    color: #3d27e1
 }
 
 .resume-section-heading:before {
@@ -11653,7 +11653,7 @@ a.theme-link:hover {
     display: inline-block;
     width: 5px;
     height: 100%;
-    background: #E95420;
+    background: #3d27e1;
     position: absolute;
     left: 0;
     top: 0
@@ -11663,7 +11663,7 @@ a.theme-link:hover {
     font-size: 2.75rem;
     font-weight: 900;
     letter-spacing: 0.4rem;
-    color: #E95420
+    color: #3d27e1
 }
 
 .resume-tagline {
@@ -11681,7 +11681,7 @@ a.resume-link {
 }
 
 a.resume-link:hover {
-    color: #E95420
+    color: #3d27e1
 }
 
 .resume-profile-image {
